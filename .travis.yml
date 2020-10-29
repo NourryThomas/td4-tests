@@ -5,4 +5,4 @@ php:
 
 script:
    - composer install
-   - vendor/bin/phpunitd
+   - vendor/bin/phpunit
